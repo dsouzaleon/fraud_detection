@@ -9,3 +9,6 @@ def model2():
 
 def model3():
     print('model 3')
+
+
+print('Model 2 is performimg best')
